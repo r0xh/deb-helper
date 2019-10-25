@@ -22,3 +22,4 @@ sudo cp /usr/share/deb-helper/helper.desktop /usr/share/applications/
 ```
 then you can run it from your menu ;)
 
+H9x.Hacker | hx@outlook.cl
