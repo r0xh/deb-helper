@@ -18,7 +18,7 @@ git clone https://github.com/r0xh/deb-helper.git
 sudo mv deb-helper /usr/share/
 sudo chmod +x /usr/share/deb-helper/s/deb-helper.sh
 sudo chmod +x /usr/share/deb-helper/deb-helper.desktop
-sudo cp /usr/share/deb-helper/deb-helper.desktop /usr/share/applications/
+sudo cp /usr/share/deb-helper/helper.desktop /usr/share/applications/
 ```
 then you can run it from your menu ;)
 
