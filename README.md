@@ -6,3 +6,20 @@ deb management tool for linux users
 
 <h2>Video</h2>
 <a href=""><img src="" style="max-width:100%;"></a>
+
+<button onclick="window.location.href = 'https://w3docs.com';">Click Here</button>
+
+:warning:Note! :This tool works on debian repository if you have rpm repository doesn't work with it
+
+tested on: Debian , Kali Linux , Ubuntu ,Linux mint
+
+## Installation:
+```bash
+git clone https://github.com/r0xh/deb-helper.git
+sudo mv deb-helper /usr/share/
+sudo chmod +x /usr/share/deb-helper/s/deb-helper.sh
+sudo chmod +x /usr/share/deb-helper/deb-helper.desktop
+sudo cp /usr/share/deb-helper/deb-helper.desktop /usr/share/applications/
+```
+then you can run it from your menu ;)
+
