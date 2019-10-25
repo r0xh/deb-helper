@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=deb-helper
+Comment=Deb management tool 
+Exec=/usr/share/helper/s/deb-helper.sh
+Icon=/usr/share/helper/i/c.svg
+Terminal=true
+Type=Application
+StartupNotify=true
