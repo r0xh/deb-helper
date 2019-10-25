@@ -5,9 +5,8 @@ deb management tool for linux users
 <img src="https://i.imgur.com/atR1Mbc.png" data-canonical-src="https://i.imgur.com/atR1Mbc.png" style="max-width:100%;">
 
 <h2>Video</h2>
-<a href=""><img src="" style="max-width:100%;"></a>
+<a href=""><img src="https://live.staticflickr.com/6148/6198192848_cf1a76f60a_b.jpg" style="max-width:100%;"></a>
 
-<button onclick="window.location.href = 'https://w3docs.com';">Click Here</button>
 
 :warning:Note! :This tool works on debian repository if you have rpm repository doesn't work with it
 
