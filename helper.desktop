@@ -2,7 +2,7 @@
 Name=deb-helper
 Comment=Deb management tool 
 Exec=/usr/share/deb-helper/s/deb-helper.sh
-Icon=/usr/share/deb-helper/i/1.png
+Icon=/usr/share/deb-helper/i/c.svg
 Terminal=true
 Type=Application
 StartupNotify=true
