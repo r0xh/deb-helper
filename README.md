@@ -5,7 +5,7 @@ deb management tool for linux users
 <img src="https://i.imgur.com/atR1Mbc.png" data-canonical-src="https://i.imgur.com/atR1Mbc.png" style="max-width:100%;">
 
 <h2>Video</h2>
-<a href="https://www.youtube.com/watch?v=laTsxEiG8-k"><img src="https://i.imgur.com/YjBKt8l.png" style="max-width:100%;"></a>
+<a href="https://www.blogger.com/video.g?token=AD6v5dxMQOI9Vn94XwtMIjJ_WWr1xatBQZJi9koB9jBugEtW8pbNv6BIcEpt-rnV6z0nex0NU-BYjKZVBUroLy7f_BKLs_13lmJ0ebO0SJa1cT538AQUf13tmgRJbAIn21OGGo4fXGQ"><img src="https://i.imgur.com/YjBKt8l.png" style="max-width:100%;"></a>
 
 
 :warning:Note! :This tool works on debian repository if you have rpm repository doesn't work with it
